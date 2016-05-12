@@ -8,7 +8,7 @@
  */
 (function ($j) {
 
-  feedback_button = {
+  var feedback_button = {
 
     onReady: function () {      
       this.feedback_button_click();
@@ -47,9 +47,7 @@
       			});
     		}
     	});
-    },
-    
-    
+    }
   };
 
   $j().ready(function () {
