@@ -1,5 +1,5 @@
 /*
- * Author       : Rohit Kumar
+ * Author       : Nick Walter (Rohit Kumar is not here)
  * Date         : 12-06-2014
  * App Name     : Iamchat
  * Website      : iamrohit.in
@@ -70,7 +70,7 @@ app.post('/sendEmail', function (req, res) {
         service: "Gmail",
         auth: {
             user: "frankestine4@gmail.com",
-            pass: "XYZ"
+            pass: "frankestine"
         }
     });
     var mailOptions = {

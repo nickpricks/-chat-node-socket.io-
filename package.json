@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/nickpricks/iamchat/issues"
   },
-  "homepage": "https://github.com/nickpricks/iamchat#readme"
+  "homepage": "https://github.com/nickpricks/iamchat#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
